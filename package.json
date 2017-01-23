@@ -1,0 +1,25 @@
+{
+  "name": "@2fd/slds",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2fd/slds.git"
+  },
+  "author": "Fede Ramirez <i@2fd.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2fd/slds/issues"
+  },
+  "homepage": "https://github.com/2fd/slds#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@salesforce-ux/design-system": "^2.2.1",
+    "camelcase": "^4.0.0"
+  }
+}
